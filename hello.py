@@ -1,2 +1,1 @@
-print("Hello from server")
-print("Hello from GitHub")
+print("Remote GitHub change")
